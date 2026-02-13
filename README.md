@@ -67,8 +67,8 @@
 
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
 
-🎤 Available for **Guest Sessions / Webinars**  
-🤝 Open to **Project Collaborations / YouTube Collabs**  
+🎤 Available for **Guest Sessions**  
+🤝 Open to **Project Collaboration**  
 💼 Offering **DevOps Consulting / Mentorship**  
 📧 Let’s chat: [prabesh@example.com](mailto:prabesh@example.com)
 

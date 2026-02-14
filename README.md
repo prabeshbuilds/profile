@@ -1,75 +1,48 @@
 
-<h1 align="center">Hey Everyone 👋, I'm Prabesh Khatiwada</h1>
+🚀 Jenkins Test Trigger
 
-<div align="center">
-  <img src="https://github.com/your-username/your-repo/blob/main/Banner.png" alt="DevOps & Backend Banner">
-</div>
+This repository is created to test and verify automatic build triggering using Jenkins CI/CD Pipeline.
 
-<h3 align="center">A passionate Backend Developer & DevOps Enthusiast from Nepal. I work on full-stack applications, Linux automation, and DevOps projects, and explore AI-driven solutions in my free time.</h3>
+📌 Project Objective
 
-<p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" />
-  </a>
-  <a href="https://www.linkedin.com/in/prabesh-khatiwada">
-    <img src="https://img.shields.io/badge/LinkedIn-Prabesh%20Khatiwada-blue?logo=linkedin&style=flat-square" />
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat-square" />
-  </a>
-</p>
+The purpose of this project is to:
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+Trigger Jenkins build automatically on every Git push
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+Test GitHub webhook integration
 
-- 👨‍💻 All of my projects are available at [https://github.com/your-username](https://github.com/your-username)  
-- 💬 Ask me about **DevOps, Linux, Django, Cloud, and Automation**  
-- 📫 How to reach me **prabesh@example.com**
+Verify pipeline execution
 
----
+Monitor build logs in Jenkins
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/prabesh-khatiwada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-  <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-</p>
+⚙️ Workflow
 
----
+Developer pushes code to GitHub repository
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
-</p>
+GitHub Webhook sends trigger to Jenkins server
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+Jenkins pipeline starts automatically
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+Build process executes
 
----
+Console output shows build result (Success/Failure)
 
-### 🔥 GitHub Contribution Streak
+🛠️ Tech Stack
 
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+Git
 
----
+GitHub
 
-### 👨‍💼 About Me & 🤝 Open to Collaborations
+Jenkins
 
-🎤 Available for **Guest Sessions**  
-🤝 Open to **Project Collaboration**  
-💼 Offering **DevOps Consulting / Mentorship**  
-📧 Let’s chat: [prabesh@example.com](mailto:prabesh@example.com)
+Webhook
 
-> *"Helping people build and automate the future with real-world DevOps and backend solutions. Let’s create scalable, efficient systems together!"*
+CI/CD Pipeline
+
+🔁 Test Trigger
+
+Every commit made to this repository should automatically trigger a new Jenkins build.
+
+📝 Sample Test Commit
+
+This line is added to test the Jenkins automatic trigger functionality.
